@@ -1,0 +1,34 @@
+* 1e9d90f (HEAD -> master) amdiff
+*   f00cfc6 Merge branch 'beta'
+|\  
+| * cc6eee3 graph
+| * ff4a1cc aoneline
+* | 282053d moneline
+* |   f8b642e mergeMNO
+|\ \  
+| |/  
+| * 8bd2be2 aMNO
+* | f319d47 JKL
+* |   f58996d Merge branch 'alfa'
+|\ \  
+| |/  
+| * a6b0ae3 aGHI
+* | fae2050 GHI
+|/  
+* 64abc61 DEF na alfa
+* de4a3d6 mbran.txt
+* 1bd856a Zadanie do wykładu 4. - start
+*   8329aec (origin/master) Merge branch 'master' of https://github.com/Antilius/test_kontrola
+|\  
+| * eae61c0 merge.txt
+| * 3f0bc21 Usuwanie
+| * 3e62d56 Ignorowanie
+* | b355e7d Nowy plik
+|/  
+* d0b66fa dodanie prepos.txt
+* c3398e3 zatwierdzenie zmian
+* 51a2b83 Dodane pliki (JD)
+* 9ae7d2c Zmiana (Sara)
+* 0ffd855 Pierwszy commit
+* 313c323 Czyszczenie
+* 7d1a9ca Inicjalizacja repo
