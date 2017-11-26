@@ -1,0 +1,27 @@
+dwa.txt
+jeden.txt
+smile.txt
+zdalne
+commit c3398e338130f9c31417d2f51d771a5c45954741
+
+    zatwierdzenie zmian
+
+commit 51a2b832e71758f1f920636ab258656078278462
+
+    Dodane pliki (JD)
+
+commit 9ae7d2c9729dfbb82ef7704811b878653daa4e5d
+
+    Zmiana (Sara)
+
+commit 0ffd8554ce5921f55cb5e0065a06301688056b61
+
+    Pierwszy commit
+
+commit 313c323f54d32b27092f3b757969d73d8f7be2ef
+
+    Czyszczenie
+
+commit 7d1a9cad3320b686f451b60a87a793ea2ec99c2f
+
+    Inicjalizacja repo
