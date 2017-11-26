@@ -1,0 +1,17 @@
+8bd2be2 aMNO
+a6b0ae3 aGHI
+64abc61 DEF na alfa
+de4a3d6 mbran.txt
+1bd856a Zadanie do wykładu 4. - start
+8329aec Merge branch 'master' of https://github.com/Antilius/test_kontrola
+b355e7d Nowy plik
+eae61c0 merge.txt
+3f0bc21 Usuwanie
+3e62d56 Ignorowanie
+d0b66fa dodanie prepos.txt
+c3398e3 zatwierdzenie zmian
+51a2b83 Dodane pliki (JD)
+9ae7d2c Zmiana (Sara)
+0ffd855 Pierwszy commit
+313c323 Czyszczenie
+7d1a9ca Inicjalizacja repo
