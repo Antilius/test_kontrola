@@ -1,0 +1,24 @@
+From b16a8c59a3ed47651e8fcf802673538951ef4640 Mon Sep 17 00:00:00 2001
+From: Antilius <dragon_321@onet.eu>
+Date: Thu, 7 Dec 2017 21:01:19 +0100
+Subject: [PATCH] program.java
+
+---
+ program.java | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 program.java
+
+diff --git a/program.java b/program.java
+new file mode 100644
+index 0000000..f93b6a1
+--- /dev/null
++++ b/program.java
+@@ -0,0 +1,5 @@
++class Test{
++	public static void main(String[] args){
++		System.out.println("Ala ma kota");
++	}
++}
+-- 
+2.7.4
+
